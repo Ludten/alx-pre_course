@@ -2,5 +2,5 @@
 This is my
 first commit
 for alx pre
-course
+course update
 ~~~~~~~~~~~~~
